@@ -1,0 +1,3 @@
+export const ANX_INPROGRESS = "ANX_INPROGRESS";
+export const ANX_SUCCESSFUL = "ANX_SUCCESSFUL";
+export const ANX_FAILED = "ANX_FAILED";
